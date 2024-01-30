@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 
 Esercizio_COVID.pdf
+src/Bayesian Statistics.ipynb
+src/Esercizio3.csv
