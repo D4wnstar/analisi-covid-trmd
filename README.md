@@ -1,0 +1,1 @@
+Il repository per l'esame di Tecniche di Rappresentazione e Modellizzazione Dati. Il notebook che racchiude il codice e l'analisi dei risultati e nella cartella `src`, mentre il file del dataset è in `data`. Casomai vi siano conflitti o comportamenti anomali, le esatte versioni delle librerie usate sono in `requirements.txt`.
